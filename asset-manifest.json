@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewzBuzz/static/css/main.abd64e84.css",
+    "main.js": "/NewzBuzz/static/js/main.ab709ce8.js",
+    "index.html": "/NewzBuzz/index.html",
+    "main.abd64e84.css.map": "/NewzBuzz/static/css/main.abd64e84.css.map",
+    "main.ab709ce8.js.map": "/NewzBuzz/static/js/main.ab709ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.ab709ce8.js"
+  ]
+}
